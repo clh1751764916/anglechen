@@ -1,1 +1,2 @@
-define ()11
+define get
+define go
