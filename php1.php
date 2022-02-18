@@ -1,2 +1,0 @@
-define get
-define go
